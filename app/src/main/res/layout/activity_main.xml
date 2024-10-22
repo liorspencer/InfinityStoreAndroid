@@ -49,9 +49,24 @@
         android:textColorHint="@color/texto_cor" />
 
     <Switch
-        android:id="@+id/switch1"
+        android:id="@+id/switchLogado"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Switch" />
+        android:text="Permancecer Logado?"
+        android:textColor="@color/texto_cor" />
+
+    <Button
+        android:id="@+id/buttonLogar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/botoes"
+        android:text="Logar" />
+
+    <Button
+        android:id="@+id/buttonCadastrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/botoes"
+        android:text="Cadastrar" />
 
 </LinearLayout>

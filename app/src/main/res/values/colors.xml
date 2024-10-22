@@ -4,4 +4,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="cor_Principal">#464646</color>
     <color name="texto_cor">#FFFFFF</color>
+    <color name="botoes">#242424</color>
 </resources>
